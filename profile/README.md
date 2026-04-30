@@ -41,10 +41,10 @@
 <h2 align="center">Why Outscraper</h2>
 
 <p align="center">
-  <kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><img alt="50+ sources" src="https://img.shields.io/badge/-50%2B%20sources-2563EB?style=flat-square"><br><br>Maps, search, reviews<br>directories and more<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</kbd>
-  <kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><img alt="API-first" src="https://img.shields.io/badge/-API--first-0EA5E9?style=flat-square"><br><br>REST, SDKs, MCP<br>automation-ready<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</kbd>
-  <kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><img alt="Enriched data" src="https://img.shields.io/badge/-Enriched%20data-22C55E?style=flat-square"><br><br>Contacts, socials<br>ratings and insights<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</kbd>
-  <kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><img alt="Trusted" src="https://img.shields.io/badge/-Trusted-F97316?style=flat-square"><br><br>4.7 Trustpilot<br>4.9 on G2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</kbd>
+  <a href="https://outscraper.com/services/"><kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><img alt="50+ sources" src="https://img.shields.io/badge/-50%2B%20sources-2563EB?style=flat-square"><br><br>Maps, search, reviews<br>directories and more<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</kbd></a>
+  <a href="https://app.outscraper.com/api-docs"><kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><img alt="API-first" src="https://img.shields.io/badge/-API--first-0EA5E9?style=flat-square"><br><br>REST, SDKs, MCP<br>automation-ready<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</kbd></a>
+  <a href="https://outscraper.com/how-outscraper-contacts-leads-enrichment-works/"><kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><img alt="Enriched data" src="https://img.shields.io/badge/-Enriched%20data-22C55E?style=flat-square"><br><br>Contacts, socials<br>ratings and insights<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</kbd></a>
+  <a href="https://www.trustpilot.com/review/outscraper.com"><kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><img alt="Trusted" src="https://img.shields.io/badge/-Trusted-F97316?style=flat-square"><br><br>4.7 Trustpilot<br>4.9 on G2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</kbd></a>
 </p>
 
 <h2 align="center">Core Data APIs</h2>
@@ -68,11 +68,11 @@
 <h2 align="center">Popular Use Cases</h2>
 
 <p align="center">
-  <kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><img alt="Lead gen" src="https://img.shields.io/badge/-Lead%20gen-2563EB?style=flat-square"><br><br>Local lists<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</kbd>
-  <kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><img alt="CRM data" src="https://img.shields.io/badge/-CRM%20data-0EA5E9?style=flat-square"><br><br>Contacts<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</kbd>
-  <kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><img alt="Location intel" src="https://img.shields.io/badge/-Location%20intel-22C55E?style=flat-square"><br><br>POI data<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</kbd>
-  <kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><img alt="Reviews" src="https://img.shields.io/badge/-Reviews-F97316?style=flat-square"><br><br>Ratings<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</kbd>
-  <kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><img alt="AI agents" src="https://img.shields.io/badge/-AI%20agents-8B5CF6?style=flat-square"><br><br>Fresh context<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</kbd>
+  <a href="https://outscraper.com/lead-generation/"><kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><img alt="Lead gen" src="https://img.shields.io/badge/-Lead%20gen-2563EB?style=flat-square"><br><br>Local lists<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</kbd></a>
+  <a href="https://outscraper.com/enrich-crm-data/"><kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><img alt="CRM data" src="https://img.shields.io/badge/-CRM%20data-0EA5E9?style=flat-square"><br><br>Contacts<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</kbd></a>
+  <a href="https://outscraper.com/location-intelligence/"><kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><img alt="Location intel" src="https://img.shields.io/badge/-Location%20intel-22C55E?style=flat-square"><br><br>POI data<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</kbd></a>
+  <a href="https://outscraper.com/reputation-management-service/"><kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><img alt="Reviews" src="https://img.shields.io/badge/-Reviews-F97316?style=flat-square"><br><br>Ratings<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</kbd></a>
+  <a href="https://outscraper.com/web-data-for-ai-agents/"><kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><img alt="AI agents" src="https://img.shields.io/badge/-AI%20agents-8B5CF6?style=flat-square"><br><br>Fresh context<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</kbd></a>
 </p>
 
 <h2 align="center">Connect With Us</h2>
