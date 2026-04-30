@@ -40,48 +40,40 @@
 
 <h2 align="center">Why Outscraper</h2>
 
-<table width="100%">
-  <tr>
-    <td width="25%" align="center"><strong>50+ sources</strong><br><sub>Maps, search, reviews, directories</sub></td>
-    <td width="25%" align="center"><strong>API-first</strong><br><sub>REST, SDKs, MCP, automations</sub></td>
-    <td width="25%" align="center"><strong>Enriched data</strong><br><sub>Contacts, socials, ratings, insights</sub></td>
-    <td width="25%" align="center"><strong>Trusted</strong><br><sub>4.7/5 Trustpilot, 4.9/5 G2</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <kbd>&nbsp;&nbsp;<strong>50+ sources</strong>&nbsp;&nbsp;<br><sub>Maps, search, reviews</sub></kbd>
+  <kbd>&nbsp;&nbsp;<strong>API-first</strong>&nbsp;&nbsp;<br><sub>REST, SDKs, MCP</sub></kbd>
+  <kbd>&nbsp;&nbsp;<strong>Enriched data</strong>&nbsp;&nbsp;<br><sub>Contacts, socials, insights</sub></kbd>
+  <kbd>&nbsp;&nbsp;<strong>Trusted</strong>&nbsp;&nbsp;<br><sub>4.7 Trustpilot, 4.9 G2</sub></kbd>
+</p>
 
 <h2 align="center">Core Data APIs</h2>
 
-<table width="100%">
-  <tr>
-    <td width="25%" align="center"><strong><a href="https://outscraper.com/google-maps-api/">Places API</a></strong><br><sub>Google Maps businesses and POI</sub></td>
-    <td width="25%" align="center"><strong><a href="https://outscraper.com/google-maps-reviews-scraper/">Reviews API</a></strong><br><sub>Ratings, feedback, competitors</sub></td>
-    <td width="25%" align="center"><strong><a href="https://outscraper.com/emails-scraper/">Contacts API</a></strong><br><sub>Emails, phones, socials</sub></td>
-    <td width="25%" align="center"><strong><a href="https://outscraper.com/services/">50+ APIs</a></strong><br><sub>Search, AI, Amazon, geocoding</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://outscraper.com/google-maps-api/"><kbd>&nbsp;&nbsp;<strong>Places API</strong>&nbsp;&nbsp;<br><sub>Maps businesses & POI</sub></kbd></a>
+  <a href="https://outscraper.com/google-maps-reviews-scraper/"><kbd>&nbsp;&nbsp;<strong>Reviews API</strong>&nbsp;&nbsp;<br><sub>Ratings and feedback</sub></kbd></a>
+  <a href="https://outscraper.com/emails-scraper/"><kbd>&nbsp;&nbsp;<strong>Contacts API</strong>&nbsp;&nbsp;<br><sub>Emails, phones, socials</sub></kbd></a>
+  <a href="https://outscraper.com/services/"><kbd>&nbsp;&nbsp;<strong>50+ APIs</strong>&nbsp;&nbsp;<br><sub>Search, AI, geocoding</sub></kbd></a>
+</p>
 
 <h2 align="center">Developer Ecosystem</h2>
 
-<table width="100%">
-  <tr>
-    <td width="25%" align="center"><strong><a href="https://app.outscraper.com/api-docs">REST API</a></strong><br><sub>Production data pipelines</sub></td>
-    <td width="25%" align="center"><strong><a href="https://github.com/outscraper/outscraper-python">SDKs</a></strong><br><sub>Python, Node, PHP, Go, Java, Ruby</sub></td>
-    <td width="25%" align="center"><strong><a href="https://github.com/outscraper/outscraper-mcp-server">MCP Server</a></strong><br><sub>Claude, Cursor, Codex, agents</sub></td>
-    <td width="25%" align="center"><strong><a href="https://github.com/outscraper/n8n-nodes-outscraper">Automations</a></strong><br><sub>n8n, Make, Zapier, Sheets</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://app.outscraper.com/api-docs"><kbd>&nbsp;&nbsp;<strong>REST API</strong>&nbsp;&nbsp;<br><sub>Production pipelines</sub></kbd></a>
+  <a href="https://github.com/outscraper/outscraper-python"><kbd>&nbsp;&nbsp;<strong>SDKs</strong>&nbsp;&nbsp;<br><sub>Python, Node, PHP, Go</sub></kbd></a>
+  <a href="https://github.com/outscraper/outscraper-mcp-server"><kbd>&nbsp;&nbsp;<strong>MCP Server</strong>&nbsp;&nbsp;<br><sub>Claude, Cursor, Codex</sub></kbd></a>
+  <a href="https://github.com/outscraper/n8n-nodes-outscraper"><kbd>&nbsp;&nbsp;<strong>Automations</strong>&nbsp;&nbsp;<br><sub>n8n, Make, Zapier</sub></kbd></a>
+</p>
 
 <h2 align="center">Popular Use Cases</h2>
 
-<table width="100%">
-  <tr>
-    <td width="20%" align="center"><strong>Lead gen</strong><br><sub>Local business lists</sub></td>
-    <td width="20%" align="center"><strong>CRM data</strong><br><sub>Contacts and profiles</sub></td>
-    <td width="20%" align="center"><strong>Location intel</strong><br><sub>POI and branches</sub></td>
-    <td width="20%" align="center"><strong>Reviews</strong><br><sub>Ratings and feedback</sub></td>
-    <td width="20%" align="center"><strong>AI agents</strong><br><sub>Fresh business context</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <kbd>&nbsp;&nbsp;<strong>Lead gen</strong>&nbsp;&nbsp;<br><sub>Local lists</sub></kbd>
+  <kbd>&nbsp;&nbsp;<strong>CRM data</strong>&nbsp;&nbsp;<br><sub>Contacts</sub></kbd>
+  <kbd>&nbsp;&nbsp;<strong>Location intel</strong>&nbsp;&nbsp;<br><sub>POI data</sub></kbd>
+  <kbd>&nbsp;&nbsp;<strong>Reviews</strong>&nbsp;&nbsp;<br><sub>Ratings</sub></kbd>
+  <kbd>&nbsp;&nbsp;<strong>AI agents</strong>&nbsp;&nbsp;<br><sub>Fresh context</sub></kbd>
+</p>
 
 ## Connect With Us
 
