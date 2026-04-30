@@ -44,7 +44,7 @@
   <a href="https://outscraper.com/services/"><kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><img alt="50+ sources" src="https://img.shields.io/badge/-50%2B%20sources-2563EB?style=flat-square"><br><br>Maps, search, reviews<br>directories and more<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</kbd></a>
   <a href="https://app.outscraper.com/api-docs"><kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><img alt="API-first" src="https://img.shields.io/badge/-API--first-0EA5E9?style=flat-square"><br><br>REST, SDKs, MCP<br>automation-ready<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</kbd></a>
   <a href="https://outscraper.com/how-outscraper-contacts-leads-enrichment-works/"><kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><img alt="Enriched data" src="https://img.shields.io/badge/-Enriched%20data-22C55E?style=flat-square"><br><br>Contacts, socials<br>ratings and insights<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</kbd></a>
-  <a href="https://www.trustpilot.com/review/outscraper.com"><kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><img alt="Trusted" src="https://img.shields.io/badge/-Trusted-F97316?style=flat-square"><br><br>4.7 Trustpilot<br>4.9 on G2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</kbd></a>
+  <a href="https://outscraper.com/outscraper-reviews/"><kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><img alt="Trusted" src="https://img.shields.io/badge/-Trusted-F97316?style=flat-square"><br><br>4.7 Trustpilot<br>4.9 on G2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</kbd></a>
 </p>
 
 <h2 align="center">Core Data APIs</h2>
@@ -100,7 +100,6 @@
 
 <p align="center">
   <strong>Support:</strong> <a href="mailto:support@outscraper.com">support@outscraper.com</a><br>
-  <strong>Business:</strong> <a href="mailto:service@outscraper.com">service@outscraper.com</a><br>
   <strong>Phone:</strong> <a href="tel:+16284652800">+1 628 465 2800</a><br>
   <strong>Address:</strong> 12600 Hill Country Boulevard, Bee Cave, TX 78738, United States
 </p>
