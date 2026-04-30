@@ -41,43 +41,43 @@
 <h2 align="center">Why Outscraper</h2>
 
 <p align="center">
-  <kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>50+ sources</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><sub>Maps, search, reviews</sub><br><sub>directories and more</sub>&nbsp;</kbd>
-  <kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>API-first</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><sub>REST, SDKs, MCP</sub><br><sub>automation-ready</sub>&nbsp;</kbd>
-  <kbd>&nbsp;&nbsp;&nbsp;&nbsp;<strong>Enriched data</strong>&nbsp;&nbsp;&nbsp;&nbsp;<br><br><sub>Contacts, socials</sub><br><sub>ratings and insights</sub>&nbsp;</kbd>
-  <kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Trusted</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><sub>4.7 Trustpilot</sub><br><sub>4.9 on G2</sub>&nbsp;</kbd>
+  <kbd>&nbsp;&nbsp;&nbsp;&nbsp;<strong><big>50+ sources</big></strong>&nbsp;&nbsp;&nbsp;&nbsp;<br><br>Maps, search, reviews<br>directories and more&nbsp;</kbd>
+  <kbd>&nbsp;&nbsp;&nbsp;&nbsp;<strong><big>API-first</big></strong>&nbsp;&nbsp;&nbsp;&nbsp;<br><br>REST, SDKs, MCP<br>automation-ready&nbsp;</kbd>
+  <kbd>&nbsp;&nbsp;&nbsp;<strong><big>Enriched data</big></strong>&nbsp;&nbsp;&nbsp;<br><br>Contacts, socials<br>ratings and insights&nbsp;</kbd>
+  <kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong><big>Trusted</big></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>4.7 Trustpilot<br>4.9 on G2&nbsp;</kbd>
 </p>
 
 <h2 align="center">Core Data APIs</h2>
 
 <p align="center">
-  <a href="https://outscraper.com/google-maps-api/"><kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Places API</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><sub>Google Maps</sub><br><sub>businesses and POI</sub>&nbsp;</kbd></a>
-  <a href="https://outscraper.com/google-maps-reviews-scraper/"><kbd>&nbsp;&nbsp;&nbsp;&nbsp;<strong>Reviews API</strong>&nbsp;&nbsp;&nbsp;&nbsp;<br><br><sub>Ratings, feedback</sub><br><sub>competitors</sub>&nbsp;</kbd></a>
-  <a href="https://outscraper.com/emails-scraper/"><kbd>&nbsp;&nbsp;&nbsp;<strong>Contacts API</strong>&nbsp;&nbsp;&nbsp;<br><br><sub>Emails, phones</sub><br><sub>social profiles</sub>&nbsp;</kbd></a>
-  <a href="https://outscraper.com/services/"><kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>50+ APIs</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><sub>Search, AI</sub><br><sub>Amazon, geocoding</sub>&nbsp;</kbd></a>
+  <a href="https://outscraper.com/google-maps-api/"><kbd>&nbsp;&nbsp;&nbsp;&nbsp;<strong><big>Places API</big></strong>&nbsp;&nbsp;&nbsp;&nbsp;<br><br>Google Maps<br>businesses and POI&nbsp;</kbd></a>
+  <a href="https://outscraper.com/google-maps-reviews-scraper/"><kbd>&nbsp;&nbsp;&nbsp;<strong><big>Reviews API</big></strong>&nbsp;&nbsp;&nbsp;<br><br>Ratings, feedback<br>competitors&nbsp;</kbd></a>
+  <a href="https://outscraper.com/emails-scraper/"><kbd>&nbsp;&nbsp;<strong><big>Contacts API</big></strong>&nbsp;&nbsp;<br><br>Emails, phones<br>social profiles&nbsp;</kbd></a>
+  <a href="https://outscraper.com/services/"><kbd>&nbsp;&nbsp;&nbsp;&nbsp;<strong><big>50+ APIs</big></strong>&nbsp;&nbsp;&nbsp;&nbsp;<br><br>Search, AI<br>Amazon, geocoding&nbsp;</kbd></a>
 </p>
 
 <h2 align="center">Developer Ecosystem</h2>
 
 <p align="center">
-  <a href="https://app.outscraper.com/api-docs"><kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>REST API</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><sub>Production-ready</sub><br><sub>data pipelines</sub>&nbsp;</kbd></a>
-  <a href="https://github.com/outscraper/outscraper-python"><kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>SDKs</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><sub>Python, Node</sub><br><sub>PHP, Go, Java, Ruby</sub>&nbsp;</kbd></a>
-  <a href="https://github.com/outscraper/outscraper-mcp-server"><kbd>&nbsp;&nbsp;&nbsp;&nbsp;<strong>MCP Server</strong>&nbsp;&nbsp;&nbsp;&nbsp;<br><br><sub>Claude, Cursor</sub><br><sub>Codex and agents</sub>&nbsp;</kbd></a>
-  <a href="https://github.com/outscraper/n8n-nodes-outscraper"><kbd>&nbsp;&nbsp;&nbsp;&nbsp;<strong>Automations</strong>&nbsp;&nbsp;&nbsp;&nbsp;<br><br><sub>n8n, Make</sub><br><sub>Zapier, Sheets</sub>&nbsp;</kbd></a>
+  <a href="https://app.outscraper.com/api-docs"><kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong><big>REST API</big></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>Production-ready<br>data pipelines&nbsp;</kbd></a>
+  <a href="https://github.com/outscraper/outscraper-python"><kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong><big>SDKs</big></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>Python, Node<br>PHP, Go, Java, Ruby&nbsp;</kbd></a>
+  <a href="https://github.com/outscraper/outscraper-mcp-server"><kbd>&nbsp;&nbsp;&nbsp;<strong><big>MCP Server</big></strong>&nbsp;&nbsp;&nbsp;<br><br>Claude, Cursor<br>Codex and agents&nbsp;</kbd></a>
+  <a href="https://github.com/outscraper/n8n-nodes-outscraper"><kbd>&nbsp;&nbsp;&nbsp;<strong><big>Automations</big></strong>&nbsp;&nbsp;&nbsp;<br><br>n8n, Make<br>Zapier, Sheets&nbsp;</kbd></a>
 </p>
 
 <h2 align="center">Popular Use Cases</h2>
 
 <p align="center">
-  <kbd>&nbsp;&nbsp;&nbsp;<strong>Lead gen</strong>&nbsp;&nbsp;&nbsp;<br><br><sub>Local lists</sub>&nbsp;</kbd>
-  <kbd>&nbsp;&nbsp;&nbsp;<strong>CRM data</strong>&nbsp;&nbsp;&nbsp;<br><br><sub>Contacts</sub>&nbsp;</kbd>
-  <kbd>&nbsp;&nbsp;<strong>Location intel</strong>&nbsp;&nbsp;<br><br><sub>POI data</sub>&nbsp;</kbd>
-  <kbd>&nbsp;&nbsp;&nbsp;<strong>Reviews</strong>&nbsp;&nbsp;&nbsp;<br><br><sub>Ratings</sub>&nbsp;</kbd>
-  <kbd>&nbsp;&nbsp;&nbsp;<strong>AI agents</strong>&nbsp;&nbsp;&nbsp;<br><br><sub>Fresh context</sub>&nbsp;</kbd>
+  <kbd>&nbsp;&nbsp;<strong><big>Lead gen</big></strong>&nbsp;&nbsp;<br><br>Local lists&nbsp;</kbd>
+  <kbd>&nbsp;&nbsp;<strong><big>CRM data</big></strong>&nbsp;&nbsp;<br><br>Contacts&nbsp;</kbd>
+  <kbd>&nbsp;<strong><big>Location intel</big></strong>&nbsp;<br><br>POI data&nbsp;</kbd>
+  <kbd>&nbsp;&nbsp;<strong><big>Reviews</big></strong>&nbsp;&nbsp;<br><br>Ratings&nbsp;</kbd>
+  <kbd>&nbsp;&nbsp;<strong><big>AI agents</big></strong>&nbsp;&nbsp;<br><br>Fresh context&nbsp;</kbd>
 </p>
 
-## Connect With Us
+<h2 align="center">Connect With Us</h2>
 
-<p>
+<p align="center">
   <a href="https://outscraper.com/">
     <img alt="Website" src="https://img.shields.io/badge/Website-outscraper.com-1A73E8?style=for-the-badge">
   </a>
@@ -98,7 +98,9 @@
   </a>
 </p>
 
-**Support:** [support@outscraper.com](mailto:support@outscraper.com)  
-**Business:** [service@outscraper.com](mailto:service@outscraper.com)  
-**Phone:** [+1 628 465 2800](tel:+16284652800)  
-**Address:** 12600 Hill Country Boulevard, Bee Cave, TX 78738, United States
+<p align="center">
+  <strong>Support:</strong> <a href="mailto:support@outscraper.com">support@outscraper.com</a><br>
+  <strong>Business:</strong> <a href="mailto:service@outscraper.com">service@outscraper.com</a><br>
+  <strong>Phone:</strong> <a href="tel:+16284652800">+1 628 465 2800</a><br>
+  <strong>Address:</strong> 12600 Hill Country Boulevard, Bee Cave, TX 78738, United States
+</p>
