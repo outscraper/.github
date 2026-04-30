@@ -1,11 +1,3 @@
-<p align="center">
-  <a href="https://outscraper.com/">
-    <img src="https://github.com/outscraper.png" width="92" alt="Outscraper logo">
-  </a>
-</p>
-
-<h1 align="center">Outscraper</h1>
-
 <h3 align="center">
   Business data and enrichment APIs for Google Maps, reviews, contacts, lead generation, and AI agents.
 </h3>
