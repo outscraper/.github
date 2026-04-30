@@ -131,14 +131,3 @@
 **Business:** [service@outscraper.com](mailto:service@outscraper.com)  
 **Phone:** [+1 628 465 2800](tel:+16284652800)  
 **Address:** 12600 Hill Country Boulevard, Bee Cave, TX 78738, United States
-
----
-
-<p align="center">
-  <strong>Ready to turn public web data into structured business intelligence?</strong><br>
-  <a href="https://auth.outscraper.com/signup">Start free</a>
-  |
-  <a href="https://app.outscraper.com/api-docs">Read the API docs</a>
-  |
-  <a href="https://outscraper.com/contact-us/">Talk to sales</a>
-</p>
